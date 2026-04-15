@@ -10,8 +10,6 @@ AI Scientist @ SAP | PhD in ML
 
 ---
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=saeedghoorchian&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=1a1a1a&bg_color=ffffff"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=saeedghoorchian&theme=github&utcOffset=1"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghoorchian&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=1a1a1a&bg_color=ffffff"/>
 
 </div>
