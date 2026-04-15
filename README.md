@@ -13,6 +13,6 @@ AI Scientist @ SAP | PhD in ML
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghoorchian&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=1a1a1a&bg_color=ffffff"/>
 
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghoorchian&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=1a1a1a&bg_color=ffffff"/>
+![Profile Views](https://komarev.com/ghpvc/?username=saeedghoorchian&color=2563eb&style=flat-square)
 
 </div>
