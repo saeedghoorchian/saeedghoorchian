@@ -8,8 +8,5 @@ AI Scientist @ SAP | PhD in ML
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=Ro-q7woAAAAJ&hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saeed-ghoorchian/)
 
----
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedghoorchian&layout=compact&theme=transparent&hide_border=true&title_color=2563eb&text_color=1a1a1a&bg_color=ffffff"/>
 
 </div>
